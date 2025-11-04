@@ -123,7 +123,7 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 ---
 
 ### 4️⃣ PromptGen — Prompt Engineering Toolkit  
-![prompt](https://media.giphy.com/media/26gslkq3G1Qx3dG4g/giphy.gif)
+![prompt](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JlNm9uOTcxenFyd3U0eHQ4YTZmaTh2end5NWhvaHJ6Y3hnZ2p4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif)
 
 **Overview:** Prompt versioning & testing environment to iterate quickly on LLM prompts across tasks.
 
@@ -144,7 +144,7 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 ---
 
 ### 5️⃣ AI-Powered Database Assistant  
-![sql](https://media.giphy.com/media/l0MYKDrqk6Sx3p7tW/giphy.gif)
+![sql](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm00dzRkOWtpeDBlNHBocDUzN2VrNXJuY2dmbXV3bmgxcDk3NndubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif)
 
 **Overview:** Ask your database in plain English; get SQL + answers + auto charts.
 
@@ -164,8 +164,8 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-### 6️⃣ Voice-based AI Personal Assistant (Desktop Control)  
-![voice](https://media.giphy.com/media/3o6Zt8zb1xqX6i6fSg/giphy.gif)
+### 6️⃣ Voice-based AI Personal Assistant (Including Desktop Control)  
+![voice](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxkaTE5eWNycWJkMTNseWVtMGdsdHhld3ZqZmpzMWpjOGl0OGtxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkSyGueYTnk40/giphy.gif)
 
 **Overview:** Voice-first assistant that executes desktop automations with a safe sandbox.
 
