@@ -52,12 +52,12 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-## 🧠 Projects (expanded & animated)
-> Each project entry contains: **Overview → Key features → Architecture & Tech → Example usage / status**
+## 🧠 Projects
 
 ---
 
-### 1️⃣ Frame Interpolation Engine ![frames](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+### 1️⃣ Frame Interpolation Engine ![frames]
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx5dWVkeDloa3ZiOGc1czNmdjNiOTBodGVuNnR6MDdmdm81bjM2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiJ4cVWew0klLuY96/giphy.gif)
 **Overview:** Research-quality engine that synthesizes intermediate frames for smoother playback and slow-motion effects.
 
 **Key features**
@@ -78,7 +78,8 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-### 2️⃣ Mistral 7B Chatbot (Career Guidance) ![chatbot](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+### 2️⃣ Mistral 7B Chatbot (Career Guidance) ![chatbot]
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFlM2J1dWdobmg1enNjd3NvbDFxbXp4YnlwaHk4bDFlZ2I1M3B3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S60CrN9iMxFlyp7uM8/giphy.gif)
 **Overview:** Local deployment of Mistral-7B-Instruct (quantized) tuned for concise, student-friendly career guidance.
 
 **Key features**
@@ -98,7 +99,8 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-### 3️⃣ AI-Powered Mind Map Generator ![mindmap](https://media.giphy.com/media/3o6ZtmS8pYwK7mX0Ji/giphy.gif)
+### 3️⃣ AI-Powered Mind Map Generator ![mindmap]
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ3Z2p1ZTV2b2hvYnh6cGt0cDBmdXVncTJ6bmNid3JyNDNsYmR4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h7uQzyT755jVibc0fj/giphy.gif)
 **Overview:** Converts natural language prompts into interactive, exportable mind maps for study planning and brainstorming.
 
 **Key features**
@@ -118,7 +120,8 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-### 4️⃣ PromptGen — Prompt Engineering Toolkit ![prompt](https://media.giphy.com/media/26gslkq3G1Qx3dG4g/giphy.gif)
+### 4️⃣ PromptGen — Prompt Engineering Toolkit ![prompt]
+(https://media.giphy.com/media/26gslkq3G1Qx3dG4g/giphy.gif)
 **Overview:** Prompt versioning & testing environment to iterate quickly on LLM prompts across tasks.
 
 **Key features**
@@ -156,7 +159,8 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-### 6️⃣ Voice-based AI Personal Assistant (Desktop Control) ![voice](https://media.giphy.com/media/3o6Zt8zb1xqX6i6fSg/giphy.gif)
+### 6️⃣ Voice-based AI Personal Assistant (Desktop Control) ![voice]
+(https://media.giphy.com/media/3o6Zt8zb1xqX6i6fSg/giphy.gif)
 **Overview:** Voice-first assistant that executes desktop automations with a safe sandbox.
 
 **Key features**
