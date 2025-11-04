@@ -51,14 +51,17 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-## 🧠 Projects
+## 🧑‍💻 Projects (polished portfolio)
+> GIFs are aligned and displayed at a consistent size for a tidy, professional look.
 
 ---
 
 ### 1️⃣ Frame Interpolation Engine  
-![frames](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx5dWVkeDloa3ZiOGc1czNmdjNiOTBodGVuNnR6MDdmdm81bjM2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiJ4cVWew0klLuY96/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx5dWVkeDloa3ZiOGc1czNmdjNiOTBodGVuNnR6MDdmdm81bjM2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiJ4cVWew0klLuY96/giphy.gif" alt="frame interpolation" style="height:120px; object-fit:cover;" />
+</p>
 
-**Overview:** Research-quality engine that synthesizes intermediate frames for smoother playback and slow-motion effects.
+**Overview:** Research-quality engine that synthesizes intermediate frames for smoother playback and cinematic slow-motion.
 
 **Key features**
 - Multi-frame synthesis to reduce flicker & temporal artifacts.  
@@ -66,121 +69,89 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 - Batch CLI + web preview UI, FFmpeg pipeline for encoding.  
 - GPU-accelerated inference (CUDA / TensorRT) for near-real-time operation.
 
-**Architecture & Tech**
-- Core: PyTorch models (optical flow + synthesis network)  
-- Pre/post: OpenCV, FFmpeg for encoding and stitching  
-- Acceleration: CUDA, optional TensorRT conversion  
-- UI: React preview with upload/batch controls
-
-**Example usage**
-- Slow-motion conversion for 24→60 fps, animation smoothing, frame rate upscaling for legacy footage.  
-**Status:** Production prototype, editable parameters for motion-blend, occlusion threshold.
+**Tech:** PyTorch, OpenCV, FFmpeg, CUDA, React (preview UI)  
+**Status:** Production prototype — CLI + web preview, parameter tuning.
 
 ---
 
 ### 2️⃣ Mistral 7B Chatbot (Career Guidance)  
-![chatbot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFlM2J1dWdobmg1enNjd3NvbDFxbXp4YnlwaHk4bDFlZ2I1M3B3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S60CrN9iMxFlyp7uM8/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFlM2J1dWdobmg1enNjd3NvbDFxbXp4YnlwaHk4bDFlZ2I1M3B3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S60CrN9iMxFlyp7uM8/giphy.gif" alt="mistral chatbot" style="height:120px; object-fit:cover;" />
+</p>
 
-**Overview:** Local deployment of Mistral-7B-Instruct (quantized) tuned for concise, student-friendly career guidance.
+**Overview:** Local deployment of Mistral-7B (quantized) tuned for concise, contextual career advice.
 
 **Key features**
 - Contextual replies using user profile & recent activity.  
 - Personality & tone presets (concise, mentor-like, friendly).  
-- Offline voice pipeline: Whisper (STT) + TTS for spoken interactions.  
-- Safety & fallback logic to avoid unreliable recommendations.
+- Offline voice pipeline: Whisper (STT) + TTS.  
+- Safety & fallback logic to reduce hallucinations.
 
-**Architecture & Tech**
-- Model: Mistral 7B (GGUF / quantized), run on local GPU / ONNX runtime  
-- API: Flask / FastAPI for model serving; Node/Express gateway for web clients  
-- Realtime: Socket.IO for chat streaming and typing indicators  
-- Integrations: Destiny Dive profile connectors for personalised suggestions
-
-**Example usage**
-- “Which campuses in Bangalore offer CS with strong placements?” → chatbot replies with ranked list and suggested next steps (sample prep resources).
+**Tech:** Mistral 7B (GGUF / quantized), FastAPI/Flask, Socket.IO, Node/Express
 
 ---
 
 ### 3️⃣ AI-Powered Mind Map Generator  
-![mindmap](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ3Z2p1ZTV2b2hvYnh6cGt0cDBmdXVncTJ6bmNid3JyNDNsYmR4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h7uQzyT755jVibc0fj/giphy.gif))
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ3Z2p1ZTV2b2hvYnh6cGt0cDBmdXVncTJ6bmNid3JyNDNsYmR4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h7uQzyT755jVibc0fj/giphy.gif" alt="mind map" style="height:120px; object-fit:cover;" />
+</p>
 
 **Overview:** Converts natural language prompts into interactive, exportable mind maps for study planning and brainstorming.
 
 **Key features**
-- Automatic topic extraction → hierarchical graph generation.  
-- Auto layout & clustering with D3.js; nodes are draggable and editable.  
-- Export to SVG/PNG/JSON; shareable templates for study sessions.  
-- Color themes, node icons and priority markers.
+- LLM-driven extraction → hierarchical graph generation.  
+- Auto-layout & clustering with D3.js; draggable/editable nodes.  
+- Export to SVG/PNG/JSON; shareable templates and color themes.
 
-**Architecture & Tech**
-- NLP: LLM prompt pipeline to extract entities & relations  
-- Graph: NetworkX / custom heuristics for hierarchy building  
-- Rendering: D3.js + React, SVG export utilities  
-- API: FastAPI to accept prompts and return JSON graph
-
-**Example usage**
-- Input: “Prepare for Data Structures semester” → Generates subject branches, topic checklist, estimated study hours per topic.
+**Tech:** FastAPI, NetworkX, D3.js, React
 
 ---
 
 ### 4️⃣ PromptGen — Prompt Engineering Toolkit  
-![prompt](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JlNm9uOTcxenFyd3U0eHQ4YTZmaTh2end5NWhvaHJ6Y3hnZ2p4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JlNm9uOTcxenFyd3U0eHQ4YTZmaTh2end5NWhvaHJ6Y3hnZ2p4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif" alt="promptgen" style="height:120px; object-fit:cover;" />
+</p>
 
-**Overview:** Prompt versioning & testing environment to iterate quickly on LLM prompts across tasks.
+**Overview:** Prompt versioning and evaluation platform for reproducible LLM experiments.
 
 **Key features**
-- Template library: classification, summarization, QA, conversation.  
-- A/B testing: run multiple prompt variants and compare outputs.  
-- Metrics & scoring: BLEU/ROUGE + embedding similarity + human labels.  
-- Prompt history + tagging for reproducibility.
+- Prompt templates, A/B testing, metric-driven comparison.  
+- BLEU/ROUGE + embedding similarity + human labeling.  
+- Prompt history, tagging and run metadata for reproducibility.
 
-**Architecture & Tech**
-- Backend: Node.js + Python evaluation scripts  
-- Storage: MongoDB for prompt metadata & runs  
-- UI: React with live diffing and side-by-side output comparison
-
-**Example usage**
-- Rapidly refine a "resume summarization" prompt and track improvements across datasets.
+**Tech:** Node.js, Python evaluation scripts, MongoDB, React
 
 ---
 
 ### 5️⃣ AI-Powered Database Assistant  
-![sql](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm00dzRkOWtpeDBlNHBocDUzN2VrNXJuY2dmbXV3bmgxcDk3NndubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm00dzRkOWtpeDBlNHBocDUzN2VrNXJuY2dmbXV3bmgxcDk3NndubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" alt="sql assistant" style="height:120px; object-fit:cover;" />
+</p>
 
-**Overview:** Ask your database in plain English; get SQL + answers + auto charts.
+**Overview:** Natural language → SQL translator with preview, safety checks and auto-charting.
 
 **Key features**
-- Natural language → SQL translator with explanation steps.  
-- Safe preview mode before execution; parameterized queries to avoid injection.  
-- Auto-chart suggestions and CSV/JSON export.  
-- Schema-aware suggestions and join hints.
+- Schema-aware NL→SQL translation and explainable steps.  
+- Safe preview mode & parameterized queries (injection protection).  
+- Auto-chart suggestions and CSV/JSON export.
 
-**Architecture & Tech**
-- LLM translator (prompt → SQL) with schema injection  
-- Execution: MySQL/Postgres with audit logs & restricted roles  
-- UI: Query preview + result table + quick charting with chartjs
-
-**Example usage**
-- “Show top 5 departments by average salary last year” → shows SQL, preview & chart.
+**Tech:** LLM translator, MySQL/Postgres, Express, React
 
 ---
 
-### 6️⃣ Voice-based AI Personal Assistant (Including Desktop Control)  
-![voice](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxkaTE5eWNycWJkMTNseWVtMGdsdHhld3ZqZmpzMWpjOGl0OGtxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkSyGueYTnk40/giphy.gif)
+### 6️⃣ Voice-based AI Personal Assistant (Desktop Control)  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxkaTE5eWNycWJkMTNseWVtMGdsdHhld3ZqZmpzMWpjOGl0OGtxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkSyGueYTnk40/giphy.gif" alt="voice assistant" style="height:120px; object-fit:cover;" />
+</p>
 
 **Overview:** Voice-first assistant that executes desktop automations with a safe sandbox.
 
 **Key features**
 - Offline-capable STT (Vosk/Whisper) + local LLM planner.  
-- Safe execution: confirm high-risk commands and sandboxed runner.  
-- Plugin SDK for adding automations (file ops, browser, terminal tasks).  
-- Short-term memory for contextual follow-ups.
+- Safe execution: confirmation for high-risk actions and sandboxed runner.  
+- Plugin SDK for adding automations (file ops, browser, terminal tasks).
 
-**Architecture & Tech**
-- STT: Whisper/Vosk; Planner: local LLM; Executor: Python sandbox + PyAutoGUI/Electron bridges  
-- UI: Electron app for desktop with micro-interactions & logs
-
-**Example usage**
-- “Open my project folder and run the build script” → assistant asks confirmation, then runs the script in isolated environment and streams logs.
+**Tech:** Whisper/Vosk, Python sandbox, PyAutoGUI, Electron
 
 ---
 
