@@ -4,7 +4,7 @@
 
 **Career‑focused developer • Data enthusiast • AI tinkerer**
 
-I build practical AI tools, career-guidance products and interactive web apps. I turn startup ideas into working projects — one of those is **Destiny Dive** (started as a startup idea; now maintained as my personal project — for Git only).
+I build practical AI tools, career-guidance products and interactive web apps. I turn startup ideas into working projects — one of those is **Destiny Dive** (started as a startup idea; now maintained as my personal project).
 
 ---
 
