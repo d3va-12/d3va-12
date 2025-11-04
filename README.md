@@ -2,9 +2,9 @@
 
 ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-**Career‑focused developer • Data enthusiast • AI tinkerer**
+**Career-focused developer • Data enthusiast • AI tinkerer**
 
-I build practical AI tools, career-guidance products and interactive web apps. I turn startup ideas into working projects — one of those is **Destiny Dive** (started as a startup idea; now maintained as my personal project).
+I build practical AI tools, career-guidance products and interactive web apps. I turn startup ideas into working projects — one of those is **Destiny Dive**, my personal project that began as a startup concept.
 
 <div align="center">
   <a href="mailto:devendra99651@gmail.com">
@@ -17,187 +17,194 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=What%20I%20Build&fontSize=70&animation=twinkling" />
-
-* AI-powered assistants and chatbots.
-* Interactive career-guidance systems and decision flows.
-* ML-assisted media tools (frame interpolation, image/video enhancements).
-* Data dashboards and visual analyses (Power BI + Python).
-* Full‑stack web apps: React frontend + Node/Express + MongoDB/MySQL.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Featured%20Project&fontSize=70&animation=twinkling" />
-
-## 🧩 Destiny Dive
-
-**Destiny Dive** — an interactive career‑guidance platform (personal project). Core features:
-
-* Decision-tree based career path selector (Indian & foreign university flows).
-* Personalized student profiles with XP, roadmap, mentor suggestions, and life timeline.
-* Integrated Mistral 7B chatbot for friendly, concise conversational guidance.
-* Daily quests, skill snapshots and mentor matching to keep learners engaged.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Projects&fontSize=70&animation=twinkling" />
-
-### 1. Frame Interpolation Engine
-
-**Overview:** A research-grade tool that generates smooth in-between frames for video using deep learning and optical flow techniques. Ideal for slow‑motion, frame-rate conversion and animation smoothing.
-
-**Highlights:**
-
-* Multi-frame synthesis to avoid temporal artifacts.
-* Motion-aware warping and occlusion handling.
-* CLI + web UI for quick previews and batch processing.
-
-**Tech:** Python, PyTorch, optical-flow networks, FFmpeg, React (preview UI).
-
----
-
-### 2. Mistral 7B Chatbot (Career Guidance)
-
-**Overview:** Local deployment and fine‑tuning of Mistral‑7B‑Instruct (4-bit quantized) to act as a concise, friendly career advisor.
-
-**Highlights:**
-
-* Short, interactive responses tuned for students.
-* Plug‑in system to connect with Destiny Dive profiles and suggest personalized roadmaps.
-* Safety & fallback prompts to keep guidance practical and actionable.
-
-**Tech:** Mistral 7B (GGUF), Python backend, Node/Express orchestration, WebSocket chat frontend.
-
----
-
-### 3. AI‑Powered Mind Map Generator
-
-**Overview:** Converts user prompts into structured mind maps and renders interactive SVG diagrams.
-
-**Highlights:**
-
-* Prompt → hierarchical topic extraction → SVG mind map generation.
-* Export to PNG/SVG and editable nodes for manual refinement.
-* Useful for brainstorming, study plans and project planning.
-
-**Tech:** LLM prompts, Python (graph processing), D3.js / SVG rendering, React UI.
-
----
-
-### 4. PromptGen — Prompt Engineering Toolkit
-
-**Overview:** A toolkit to create, store, test and version prompts for different LLMs and tasks.
-
-**Highlights:**
-
-* Prompt templates for classification, summarization, QA and conversation.
-* Evaluation harness to compare prompt outputs using metrics and human labels.
-* Version control for iterative prompt improvements.
-
-**Tech:** Node/Python backend, SQLite/MongoDB store, web UI for testing and metrics.
-
----
-
-### 5. AI‑Powered Database Assistant
-
-**Overview:** Natural language interface for SQL databases. Converts human questions to SQL, executes queries, and formats results.
-
-**Highlights:**
-
-* NL→SQL translation with safety checks and explainability.
-* Query preview and run modes (safe preview, run).
-* Interactive results with export options.
-
-**Tech:** LLM-backed translator, MySQL/Postgres, Express API, React frontend.
-
----
-
-### 6. Voice‑based AI Personal Assistant (Desktop Control)
-
-**Overview:** Voice interface that maps LLM suggestions to local desktop actions and automation flows.
-
-**Highlights:**
-
-* Voice command parsing and intent routing.
-* Secure command sandbox for safe PC control.
-* Integrations: terminal commands, browser automation, file management.
-
-**Tech:** Speech-to-text, LLM action planner, Python automation scripts, Electron frontend.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Tech%20Stack&fontSize=70&animation=twinkling" />
-
+<!-- Replaced the previous section-banner with a clean animated header banner -->
 <div align="center">
-  <p><strong>Languages:</strong></p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-  <p><strong>AI / LLMs:</strong></p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Mistral%20AI-FF7020?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A0DAD?style=for-the-badge" alt="Prompt Engineering"/>
-
-  <p><strong>Data & BI:</strong></p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-
-  <p><strong>Backend & Database:</strong></p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-  <p><strong>Dev Tools:</strong></p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/FFmpeg-00780B?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=GitHub%20Stats&fontSize=70&animation=twinkling" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3va-12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Devendra's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Devendra+Kumar&fontSize=50&animation=fadeIn" alt="Devendra Kumar Banner" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3va-12&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&width=680&lines=AI+Engineer+•+Full+Stack+Developer;Building+Career+Guidance+Platforms;Creating+AI+Tools+That+Empower+Learners" alt="typing"/>
 </div>
+
+---
+
+## 🚀 What I build
+- 🤖 **AI-powered assistants & chatbots** — concise, practical conversational agents tuned for students and workflows.  
+- 🎓 **Career-guidance systems & decision flows** — interactive flows that map students to courses, colleges and career roadmaps.  
+- 🧠 **ML media tools** — frame interpolation, enhancement and temporal stabilization for video & animation.  
+- 📊 **Data dashboards & analytics** — Power BI + Python for actionable visual storytelling.  
+- 🌐 **Full-stack web apps** — React frontend + Node/Express APIs + MongoDB/MySQL.
+
+---
+
+## 🧩 Featured — Destiny Dive
+**Destiny Dive** — an interactive career-guidance platform (personal project).
+
+**Core capabilities**
+- 🎯 **Dynamic Career Flow Engine** — adaptive question trees that personalise recommendations for Indian and foreign university paths.  
+- 🧭 **Integrated Mistral 7B Chatbot** — conversational advice embedded in flows; context-aware suggestions based on profile data.  
+- 🧱 **Gamified Profiles** — XP, badges, daily quests, and mentor suggestions to motivate students.  
+- 🧩 **Career Roadmap Generator** — produces semester-by-semester study plans, skill milestones and recommended internships.
+
+**Architecture**
+- Frontend: React + Tailwind (SPA)  
+- Backend: Node.js + Express (REST + WebSocket)  
+- Data: MongoDB (profiles, quests), MySQL (analytics)  
+- AI: Mistral 7B (local inference), prompt templates, safety filters
+
+---
+
+## 🧠 Projects (expanded & animated)
+> Each project entry contains: **Overview → Key features → Architecture & Tech → Example usage / status**
+
+---
+
+### 1️⃣ Frame Interpolation Engine ![frames](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+**Overview:** Research-quality engine that synthesizes intermediate frames for smoother playback and slow-motion effects.
+
+**Key features**
+- Multi-frame synthesis to reduce flicker & temporal artifacts.  
+- Motion-aware warping with explicit occlusion handling.  
+- Batch CLI + web preview UI, FFmpeg pipeline for encoding.  
+- GPU-accelerated inference (CUDA / TensorRT) for near-real-time operation.
+
+**Architecture & Tech**
+- Core: PyTorch models (optical flow + synthesis network)  
+- Pre/post: OpenCV, FFmpeg for encoding and stitching  
+- Acceleration: CUDA, optional TensorRT conversion  
+- UI: React preview with upload/batch controls
+
+**Example usage**
+- Slow-motion conversion for 24→60 fps, animation smoothing, frame rate upscaling for legacy footage.  
+**Status:** Production prototype, editable parameters for motion-blend, occlusion threshold.
+
+---
+
+### 2️⃣ Mistral 7B Chatbot (Career Guidance) ![chatbot](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+**Overview:** Local deployment of Mistral-7B-Instruct (quantized) tuned for concise, student-friendly career guidance.
+
+**Key features**
+- Contextual replies using user profile & recent activity.  
+- Personality & tone presets (concise, mentor-like, friendly).  
+- Offline voice pipeline: Whisper (STT) + TTS for spoken interactions.  
+- Safety & fallback logic to avoid unreliable recommendations.
+
+**Architecture & Tech**
+- Model: Mistral 7B (GGUF / quantized), run on local GPU / ONNX runtime where applicable  
+- API: Flask / FastAPI for model serving; Node/Express gateway for web clients  
+- Realtime: Socket.IO for chat streaming and typing indicators  
+- Integrations: Destiny Dive profile connectors for personalised suggestions
+
+**Example usage**
+- “Which campuses in Bangalore offer CS with strong placements?” → chatbot replies with ranked list and suggested next steps (sample prep resources).
+
+---
+
+### 3️⃣ AI-Powered Mind Map Generator ![mindmap](https://media.giphy.com/media/3o6ZtmS8pYwK7mX0Ji/giphy.gif)
+**Overview:** Converts natural language prompts into interactive, exportable mind maps for study planning and brainstorming.
+
+**Key features**
+- Automatic topic extraction → hierarchical graph generation.  
+- Auto layout & clustering with D3.js; nodes are draggable and editable.  
+- Export to SVG/PNG/JSON; shareable templates for study sessions.  
+- Color themes, node icons and priority markers.
+
+**Architecture & Tech**
+- NLP: LLM prompt pipeline to extract entities & relations  
+- Graph: NetworkX / custom heuristics for hierarchy building  
+- Rendering: D3.js + React, SVG export utilities  
+- API: FastAPI to accept prompts and return JSON graph
+
+**Example usage**
+- Input: “Prepare for Data Structures semester” → Generates subject branches, topic checklist, estimated study hours per topic.
+
+---
+
+### 4️⃣ PromptGen — Prompt Engineering Toolkit ![prompt](https://media.giphy.com/media/26gslkq3G1Qx3dG4g/giphy.gif)
+**Overview:** Prompt versioning & testing environment to iterate quickly on LLM prompts across tasks.
+
+**Key features**
+- Template library: classification, summarization, QA, conversation.  
+- A/B testing: run multiple prompt variants and compare outputs.  
+- Metrics & scoring: BLEU/ROUGE + embedding similarity + human labels.  
+- Prompt history + tagging for reproducibility.
+
+**Architecture & Tech**
+- Backend: Node.js + Python evaluation scripts  
+- Storage: MongoDB for prompt metadata & runs  
+- UI: React with live diffing and side-by-side output comparison
+
+**Example usage**
+- Rapidly refine a "resume summarization" prompt and track improvements across datasets.
+
+---
+
+### 5️⃣ AI-Powered Database Assistant ![sql](https://media.giphy.com/media/l0MYKDrqk6Sx3p7tW/giphy.gif)
+**Overview:** Ask your database in plain English; get SQL + answers + auto charts.
+
+**Key features**
+- Natural language → SQL translator with explanation steps.  
+- Safe preview mode before execution; parameterized queries to avoid injection.  
+- Auto-chart suggestions and CSV/JSON export.  
+- Schema-aware suggestions and join hints.
+
+**Architecture & Tech**
+- LLM translator (prompt → SQL) with schema injection  
+- Execution: MySQL/Postgres with audit logs & restricted roles  
+- UI: Query preview + result table + quick charting with chartjs
+
+**Example usage**
+- “Show top 5 departments by average salary last year” → shows SQL, preview & chart.
+
+---
+
+### 6️⃣ Voice-based AI Personal Assistant (Desktop Control) ![voice](https://media.giphy.com/media/3o6Zt8zb1xqX6i6fSg/giphy.gif)
+**Overview:** Voice-first assistant that executes desktop automations with a safe sandbox.
+
+**Key features**
+- Offline-capable STT (Vosk/Whisper) + local LLM planner.  
+- Safe execution: confirm high-risk commands and sandboxed runner.  
+- Plugin SDK for adding automations (file ops, browser, terminal tasks).  
+- Short-term memory for contextual follow-ups.
+
+**Architecture & Tech**
+- STT: Whisper/Vosk; Planner: local LLM; Executor: Python sandbox + PyAutoGUI/Electron bridges  
+- UI: Electron app for desktop with micro-interactions & logs
+
+**Example usage**
+- “Open my project folder and run the build script” → assistant asks confirmation, then runs the script in isolated environment and streams logs.
+
+---
+
+## 🧰 Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,pytorch,git,docker,vscode&perline=6" />
+</div>
+
+**Primary:** JavaScript/TypeScript, Python, React, Node.js, PyTorch, Mistral/LLMs, FFmpeg, Docker, MongoDB/MySQL, Power BI
 
 ---
 
 ## 🎓 Education
-
 **KGiSL Institute of Technology, Coimbatore**
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Contact%20Me&fontSize=70&animation=twinkling" />
-
-* GitHub: `https://github.com/d3va-12`
-* Email: `devendra99651@gmail.com`
+## 📫 Contact
+* GitHub: [https://github.com/d3va-12](https://github.com/d3va-12)  
+* Email: [devendra99651@gmail.com](mailto:devendra99651@gmail.com)
 
 ---
 
 ## 🔗 Quick Links
-
-* Profile: [https://github.com/d3va-12](https://github.com/d3va-12)
-* Destiny Dive (project): `/destiny-dive`
-* Frame Interpolation: `/frame-interpolation`
-* Mistral Chatbot: `/mistral-chatbot`
-* Mind Map Generator: `/mindmap-generator`
+* Profile: [https://github.com/d3va-12](https://github.com/d3va-12)  
+* Destiny Dive (project): `/destiny-dive`  
+* Frame Interpolation: `/frame-interpolation`  
+* Mistral Chatbot: `/mistral-chatbot`  
+* Mind Map Generator: `/mindmap-generator`  
 * PromptGen: `/promptgen`
 
 ---
 
 ## ⚡ Footer
-
 Built with curiosity and a drive to make tools that help learners, creators and builders. — Devendra
 
 ---
