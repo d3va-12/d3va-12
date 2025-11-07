@@ -1,18 +1,14 @@
-# Hi, I'm Devendra 👋
+# Hi, I'm Devendra
 
-![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" height="28" />
 
-**Career-focused developer • Data enthusiast • AI tinkerer**
+**Career-focused developer · Data enthusiast · AI tinkerer**
 
 I build practical AI tools, career-guidance products and interactive web apps. I turn startup ideas into working projects — one of those is **Destiny Dive**, my personal project that began as a startup concept.
 
 <div align="center">
-  <a href="mailto:devendra99651@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/d3va-12">
-    <img src="https://komarev.com/ghpvc/?username=d3va-12&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  <img src="https://komarev.com/ghpvc/?username=d3va-12&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
@@ -20,28 +16,28 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Devendra+Kumar&fontSize=50&animation=fadeIn" alt="Devendra Kumar Banner" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&width=680&lines=AI+Engineer+•+Full+Stack+Developer;Building+Career+Guidance+Platforms;Creating+AI+Tools+That+Empower+Learners" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&width=680&lines=AI+Engineer+·+Full+Stack+Developer;Building+Career+Guidance+Platforms;Creating+AI+Tools+That+Empower+Learners" alt="typing headline" />
 </div>
 
 ---
 
-## 🚀 What I Build
-- 🤖 **AI-powered assistants & chatbots** — concise, practical conversational agents tuned for students and workflows.  
-- 🎓 **Career-guidance systems & decision flows** — interactive flows that map students to courses, colleges and career roadmaps.  
-- 🧠 **ML media tools** — frame interpolation, enhancement and temporal stabilization for video & animation.  
-- 📊 **Data dashboards & analytics** — Power BI + Python for actionable visual storytelling.  
-- 🌐 **Full-stack web apps** — React frontend + Node/Express APIs + MongoDB/MySQL.
+## What I Build
+- AI-powered assistants and chatbots  
+- Career-guidance systems and decision flows  
+- ML media tools (frame interpolation, enhancement, temporal stabilization)  
+- Data dashboards and analytics (Power BI + Python)  
+- Full-stack web apps (React frontend · Node/Express APIs · MongoDB/MySQL)
 
 ---
 
-## 🧩 Featured — Destiny Dive
+## Featured — Destiny Dive
 **Destiny Dive** — an interactive career-guidance platform (personal project).
 
 **Core capabilities**
-- 🎯 **Dynamic Career Flow Engine** — adaptive question trees that personalise recommendations for Indian and foreign university paths.  
-- 🧭 **Integrated Mistral 7B Chatbot** — conversational advice embedded in flows; context-aware suggestions based on profile data.  
-- 🧱 **Gamified Profiles** — XP, badges, daily quests, and mentor suggestions to motivate students.  
-- 🧩 **Career Roadmap Generator** — produces semester-by-semester study plans, skill milestones and recommended internships.
+- Dynamic Career Flow Engine — adaptive question trees for Indian and foreign university paths  
+- Integrated Mistral 7B Chatbot — context-aware suggestions based on profile data  
+- Gamified Profiles — XP, badges, daily quests, mentor suggestions  
+- Career Roadmap Generator — semester plans, skill milestones, internships
 
 **Architecture**
 - Frontend: React + Tailwind (SPA)  
@@ -51,143 +47,103 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-## 🧑‍💻 Projects (polished portfolio)
-> GIFs are aligned and displayed at a consistent size for a tidy, professional look.
+## Projects (polished portfolio)
 
----
-
-### 1️⃣ Frame Interpolation Engine  
+### 1) Frame Interpolation Engine
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx5dWVkeDloa3ZiOGc1czNmdjNiOTBodGVuNnR6MDdmdm81bjM2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiJ4cVWew0klLuY96/giphy.gif" alt="frame interpolation" style="height:120px; object-fit:cover;" />
+  <img src="https://media.giphy.com/media/xTiJ4cVWew0klLuY96/giphy.gif" alt="Frame Interpolation" height="120" />
 </p>
 
-**Overview:** Research-quality engine that synthesizes intermediate frames for smoother playback and cinematic slow-motion.
-
-**Key features**
-- Multi-frame synthesis to reduce flicker & temporal artifacts.  
-- Motion-aware warping with explicit occlusion handling.  
-- Batch CLI + web preview UI, FFmpeg pipeline for encoding.  
-- GPU-accelerated inference (CUDA / TensorRT) for near-real-time operation.
-
-**Tech:** PyTorch, OpenCV, FFmpeg, CUDA, React (preview UI)  
-**Status:** Production prototype — CLI + web preview, parameter tuning.
+**Overview:** Research-quality engine that synthesizes intermediate frames for smoother playback and cinematic slow-motion.  
+**Key features:** multi-frame synthesis, occlusion-aware warping, CLI + web preview UI, FFmpeg pipeline, CUDA/TensorRT acceleration.  
+**Tech:** PyTorch, OpenCV, FFmpeg, CUDA, React (preview UI) · **Status:** production prototype.
 
 ---
 
-### 2️⃣ Mistral 7B Chatbot (Career Guidance)  
+### 2) Mistral 7B Chatbot (Career Guidance)
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFlM2J1dWdobmg1enNjd3NvbDFxbXp4YnlwaHk4bDFlZ2I1M3B3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S60CrN9iMxFlyp7uM8/giphy.gif" alt="mistral chatbot" style="height:120px; object-fit:cover;" />
+  <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Mistral Chatbot" height="120" />
 </p>
 
-**Overview:** Local deployment of Mistral-7B (quantized) tuned for concise, contextual career advice.
-
-**Key features**
-- Contextual replies using user profile & recent activity.  
-- Personality & tone presets (concise, mentor-like, friendly).  
-- Offline voice pipeline: Whisper (STT) + TTS.  
-- Safety & fallback logic to reduce hallucinations.
-
-**Tech:** Mistral 7B (GGUF / quantized), FastAPI/Flask, Socket.IO, Node/Express
+**Overview:** Local Mistral-7B (quantized) tuned for concise, contextual career advice.  
+**Key features:** profile-aware replies, tone presets, optional Whisper STT + TTS, safety & fallback logic.  
+**Tech:** Mistral 7B (GGUF/quantized), FastAPI/Flask, Socket.IO, Node/Express.
 
 ---
 
-### 3️⃣ AI-Powered Mind Map Generator  
+### 3) AI-Powered Mind Map Generator
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ3Z2p1ZTV2b2hvYnh6cGt0cDBmdXVncTJ6bmNid3JyNDNsYmR4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h7uQzyT755jVibc0fj/giphy.gif" alt="mind map" style="height:120px; object-fit:cover;" />
+  <img src="https://media.giphy.com/media/h7uQzyT755jVibc0fj/giphy.gif" alt="Mind Map Generator" height="120" />
 </p>
 
-**Overview:** Converts natural language prompts into interactive, exportable mind maps for study planning and brainstorming.
-
-**Key features**
-- LLM-driven extraction → hierarchical graph generation.  
-- Auto-layout & clustering with D3.js; draggable/editable nodes.  
-- Export to SVG/PNG/JSON; shareable templates and color themes.
-
-**Tech:** FastAPI, NetworkX, D3.js, React
+**Overview:** Natural-language prompts → structured, interactive mind maps for study planning and brainstorming.  
+**Key features:** LLM-driven topic extraction, D3 auto-layout, draggable/editable nodes, SVG/PNG/JSON export.  
+**Tech:** FastAPI, NetworkX, D3.js, React.
 
 ---
 
-### 4️⃣ PromptGen — Prompt Engineering Toolkit  
+### 4) PromptGen — Prompt Engineering Toolkit
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JlNm9uOTcxenFyd3U0eHQ4YTZmaTh2end5NWhvaHJ6Y3hnZ2p4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif" alt="promptgen" style="height:120px; object-fit:cover;" />
+  <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" alt="PromptGen" height="120" />
 </p>
 
-**Overview:** Prompt versioning and evaluation platform for reproducible LLM experiments.
-
-**Key features**
-- Prompt templates, A/B testing, metric-driven comparison.  
-- BLEU/ROUGE + embedding similarity + human labeling.  
-- Prompt history, tagging and run metadata for reproducibility.
-
-**Tech:** Node.js, Python evaluation scripts, MongoDB, React
+**Overview:** Prompt versioning and evaluation platform for reproducible LLM experiments.  
+**Key features:** templates, A/B testing, BLEU/ROUGE + embedding similarity, human-label workflow, run metadata.  
+**Tech:** Node.js, Python evaluation scripts, MongoDB, React.
 
 ---
 
-### 5️⃣ AI-Powered Database Assistant  
+### 5) AI-Powered Database Assistant
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm00dzRkOWtpeDBlNHBocDUzN2VrNXJuY2dmbXV3bmgxcDk3NndubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vISmwpBJUNYzukTnVx/giphy.gif" alt="sql assistant" style="height:120px; object-fit:cover;" />
+  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" alt="AI Database Assistant" height="120" />
 </p>
 
-**Overview:** Natural language → SQL translator with preview, safety checks and auto-charting.
-
-**Key features**
-- Schema-aware NL→SQL translation and explainable steps.  
-- Safe preview mode & parameterized queries (injection protection).  
-- Auto-chart suggestions and CSV/JSON export.
-
-**Tech:** LLM translator, MySQL/Postgres, Express, React
+**Overview:** Natural-language-to-SQL with preview, safety checks and auto-charting.  
+**Key features:** schema-aware NL→SQL with explanations, safe preview & parameterized queries, CSV/JSON export.  
+**Tech:** LLM translator, MySQL/Postgres, Express, React.
 
 ---
 
-### 6️⃣ Voice-based AI Personal Assistant (Desktop Control)  
+### 6) Voice-based AI Personal Assistant (Desktop Control)
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxkaTE5eWNycWJkMTNseWVtMGdsdHhld3ZqZmpzMWpjOGl0OGtxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkSyGueYTnk40/giphy.gif" alt="voice assistant" style="height:120px; object-fit:cover;" />
+  <img src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" alt="Voice Assistant" height="120" />
 </p>
 
-**Overview:** Voice-first assistant that executes desktop automations with a safe sandbox.
-
-**Key features**
-- Offline-capable STT (Vosk/Whisper) + local LLM planner.  
-- Safe execution: confirmation for high-risk actions and sandboxed runner.  
-- Plugin SDK for adding automations (file ops, browser, terminal tasks).
-
-**Tech:** Whisper/Vosk, Python sandbox, PyAutoGUI, Electron
+**Overview:** Voice-first assistant that executes desktop automations with a safe sandbox and plugin system.  
+**Key features:** offline STT (Whisper/Vosk), local LLM planner, confirmations for high-risk actions, plugin SDK.  
+**Tech:** Whisper/Vosk, Python sandbox, PyAutoGUI, Electron.
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,pytorch,git,docker,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,pytorch,git,docker,vscode&perline=6" alt="Tech stack icons" />
 </div>
 
-**Primary:** JavaScript/TypeScript, Python, React, Node.js, PyTorch, Mistral/LLMs, FFmpeg, Docker, MongoDB/MySQL, Power BI
+Primary: JavaScript/TypeScript, Python, React, Node.js, PyTorch, Mistral/LLMs, FFmpeg, Docker, MongoDB/MySQL, Power BI
 
 ---
 
-## 🎓 Education
-**KGiSL Institute of Technology, Coimbatore**
+## Education
+KGiSL Institute of Technology, Coimbatore
 
 ---
 
-## 📫 Contact
-* GitHub: [https://github.com/d3va-12](https://github.com/d3va-12)  
-* Email: [devendra99651@gmail.com](mailto:devendra99651@gmail.com)
+## Contact
+GitHub: https://github.com/d3va-12  
+Email: devendra99651@gmail.com
 
 ---
 
-## 🔗 Quick Links
-* Profile: [https://github.com/d3va-12](https://github.com/d3va-12)  
-* Destiny Dive (project): `/destiny-dive`  
-* Frame Interpolation: `/frame-interpolation`  
-* Mistral Chatbot: `/mistral-chatbot`  
-* Mind Map Generator: `/mindmap-generator`  
-* PromptGen: `/promptgen`
+## Quick Links
+Profile: https://github.com/d3va-12  
+Destiny Dive (project): `/destiny-dive`  
+Frame Interpolation: `/frame-interpolation`  
+Mistral Chatbot: `/mistral-chatbot`  
+Mind Map Generator: `/mindmap-generator`  
+PromptGen: `/promptgen`
 
 ---
 
-## ⚡ Footer
-Built with curiosity and a drive to make tools that help learners, creators and builders. — Devendra
-
----
-
+Built with a focus on practical systems, reproducible ML workflows and product-driven development.  
 © 2025 Devendra Kumar
