@@ -47,7 +47,7 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 
 ---
 
-## Projects (polished portfolio)
+## Projects
 
 ### 1) Frame Interpolation Engine
 <p align="center">
