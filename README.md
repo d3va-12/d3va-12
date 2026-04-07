@@ -6,10 +6,6 @@
 
 I build practical AI tools, career-guidance products and interactive web apps. I turn startup ideas into working projects — one of those is **Destiny Dive**, my personal project that began as a startup concept.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
-  <img src="https://komarev.com/ghpvc/?username=d3va-12&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
 
 ---
 
