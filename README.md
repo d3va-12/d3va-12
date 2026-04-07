@@ -10,7 +10,7 @@ I build practical AI tools, career-guidance products and interactive web apps. I
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Devendra+Kumar&fontSize=50&animation=fadeIn" alt="Devendra Kumar Banner" />
+  
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&width=680&lines=AI+Engineer+·+Full+Stack+Developer;Building+Career+Guidance+Platforms;Creating+AI+Tools+That+Empower+Learners" alt="typing headline" />
 </div>
